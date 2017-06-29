@@ -1,0 +1,12 @@
+F:\OOP\HrWeb\HrWeb\bin\HrWeb.dll.config
+F:\OOP\HrWeb\HrWeb\bin\HrWeb.dll
+F:\OOP\HrWeb\HrWeb\bin\HrWeb.pdb
+F:\OOP\HrWeb\HrWeb\bin\BAL.dll
+F:\OOP\HrWeb\HrWeb\bin\BO.dll
+F:\OOP\HrWeb\HrWeb\bin\DAL.dll
+F:\OOP\HrWeb\HrWeb\bin\BAL.pdb
+F:\OOP\HrWeb\HrWeb\bin\BO.pdb
+F:\OOP\HrWeb\HrWeb\bin\DAL.pdb
+F:\OOP\HrWeb\HrWeb\obj\Debug\HrWeb.csprojResolveAssemblyReference.cache
+F:\OOP\HrWeb\HrWeb\obj\Debug\HrWeb.dll
+F:\OOP\HrWeb\HrWeb\obj\Debug\HrWeb.pdb

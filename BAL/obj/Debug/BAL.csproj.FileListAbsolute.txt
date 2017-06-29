@@ -1,0 +1,9 @@
+F:\OOP\HrWeb\BAL\bin\Debug\BAL.dll
+F:\OOP\HrWeb\BAL\bin\Debug\BAL.pdb
+F:\OOP\HrWeb\BAL\bin\Debug\BO.dll
+F:\OOP\HrWeb\BAL\bin\Debug\DAL.dll
+F:\OOP\HrWeb\BAL\bin\Debug\BO.pdb
+F:\OOP\HrWeb\BAL\bin\Debug\DAL.pdb
+F:\OOP\HrWeb\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+F:\OOP\HrWeb\BAL\obj\Debug\BAL.dll
+F:\OOP\HrWeb\BAL\obj\Debug\BAL.pdb

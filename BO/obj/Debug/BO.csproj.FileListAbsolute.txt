@@ -1,0 +1,5 @@
+F:\OOP\HrWeb\BO\bin\Debug\BO.dll
+F:\OOP\HrWeb\BO\bin\Debug\BO.pdb
+F:\OOP\HrWeb\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\OOP\HrWeb\BO\obj\Debug\BO.dll
+F:\OOP\HrWeb\BO\obj\Debug\BO.pdb

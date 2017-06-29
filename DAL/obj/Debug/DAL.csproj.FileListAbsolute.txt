@@ -1,0 +1,7 @@
+F:\OOP\HrWeb\DAL\bin\Debug\DAL.dll
+F:\OOP\HrWeb\DAL\bin\Debug\DAL.pdb
+F:\OOP\HrWeb\DAL\bin\Debug\BO.dll
+F:\OOP\HrWeb\DAL\bin\Debug\BO.pdb
+F:\OOP\HrWeb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\OOP\HrWeb\DAL\obj\Debug\DAL.dll
+F:\OOP\HrWeb\DAL\obj\Debug\DAL.pdb
